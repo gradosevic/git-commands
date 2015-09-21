@@ -38,6 +38,11 @@ git log —grep=“Init”
 
 ##commings - staging
 git add file.txt
+git rm file2.txt - removing
+git mv file1.txt file2.txt - renaming
+git mv file1.txt dir/file2.txt - renaming and moving
+
+git status - gets current status of head, pending changes
 
 
 
