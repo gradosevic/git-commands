@@ -44,6 +44,9 @@ git mv file1.txt dir/file2.txt - renaming and moving
 
 git status - gets current status of head, pending changes  
 
-
+##changes
+git diff file.txt -one line above another
+git diff --color-words file.tx - side to side diff
+git commit -am "message"
 
 
