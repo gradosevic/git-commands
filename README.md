@@ -8,7 +8,6 @@ which git
 git config —system
 
 sh-3.2# git config --global user.name "Goran”
-
 sh-3.2# git config --global user.email "goran.rad@website.com“
 
 sh-3.2# git config --list
