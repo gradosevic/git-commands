@@ -34,15 +34,15 @@ git log
 git log -n 4  - limit to 4 recent logs  
 git log —-since=2014-06-15  
 git log —-author=gora  
-git log —grep=“Init”
+git log —grep=“Init”  
 
-##commings - staging
-git add file.txt
-git rm file2.txt - removing
-git mv file1.txt file2.txt - renaming
-git mv file1.txt dir/file2.txt - renaming and moving
+##commings - staging  
+git add file.txt  
+git rm file2.txt - removing  
+git mv file1.txt file2.txt - renaming  
+git mv file1.txt dir/file2.txt - renaming and moving  
 
-git status - gets current status of head, pending changes
+git status - gets current status of head, pending changes  
 
 
 
