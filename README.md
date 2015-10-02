@@ -41,6 +41,7 @@ git add file.txt
 git rm file2.txt - removing  
 git mv file1.txt file2.txt - renaming  
 git mv file1.txt dir/file2.txt - renaming and moving  
+git update-index --assume-unchanged file.txt - ignore it  
 
 git status - gets current status of head, pending changes  
 
